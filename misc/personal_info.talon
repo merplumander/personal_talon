@@ -1,0 +1,1 @@
+my <user.personal_info>: insert(personal_info)

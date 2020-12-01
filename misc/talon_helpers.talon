@@ -1,0 +1,1 @@
+(launch | open | show) talon log: user.talon_open_log()

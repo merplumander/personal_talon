@@ -1,0 +1,16 @@
+copy: edit.copy()
+paste: edit.paste()
+dizzle: edit.undo()
+rizzle: edit.redo()
+sage: edit.save()
+junk: key(backspace)
+spunk: key(delete)
+slurp: 
+  key(delete)
+  key(backspace)
+slurpies: key("alt-backspace alt-delete")
+shocker:
+	 edit.line_start()
+	 key(enter)
+	 edit.up()
+toggle comment: key(cmd-/)
